@@ -1,0 +1,31 @@
+body {
+    padding: auto;
+    font-family: 'Open Sans', sans-serif;
+    background-image: url("./img/fondo.jpg");
+    background-color: transparent;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.error {
+    color: red;
+    font-size: 10px;
+    font-family: arial;
+}
+
+fieldset {
+    background-color: transparent;
+    padding: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+section {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    text-align: center;
+}
